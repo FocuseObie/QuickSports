@@ -1,6 +1,6 @@
 # QuickSports
 
-A new Flutter project.
+Now on iOS and Android
 
 ## Getting Started
 
